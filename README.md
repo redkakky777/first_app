@@ -1,7 +1,6 @@
-== README
+# Ruby on Rails Tutorial: Sample Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first application for the RoR Tutorial by Michael Hartl
 
 Things you may want to cover:
 
